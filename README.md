@@ -22,9 +22,6 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=thereza3724&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="TheReZa's GitHub Trophies" />
 </p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
 
 
 ## 🛠️ Languages & Tools
